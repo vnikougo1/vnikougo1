@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vnikougo1
-- 👀 I’m interested in learning and contributing
+- 👀 I’m interested in learning and contributing to data-driven applications and computer-human interactions.
 - 🌱 I’m currently learning LangChain for LLM-powered app development and DeepLearning.
 
 <!---
